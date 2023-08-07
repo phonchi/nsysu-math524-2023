@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Join our [Facebook Group](https://www.facebook.com/groups/639876774414538) to discuss courses and get the timely notification.
+Join our [Facebook Group](https://www.facebook.com/groups/258247083661961) to discuss courses and get the timely notification.
 
 Office hour:  Mon. 16:00-18:00 and Wed. 16:00-18:00
 
