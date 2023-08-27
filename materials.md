@@ -8,8 +8,8 @@ permalink: /materials/
 
 ## Book
 
-* [An Introduction to Statistical Learning with Applications in Python.](https://www.statlearning.com/)
-* [The Elements of Statistical Learning, Data Mining, Inference, and Prediction. Second Edition.](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/)
+* [The Elements of Statistical Learning, Data Mining, Inference, and Prediction. Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python Second Edition](https://github.com/gedeck/practical-statistics-for-data-scientists/)
 * [ISLP Lab](https://github.com/phonchi/ISLP_labs/)
 * [Reference solution for the exercise (R)](http://blog.princehonest.com/stat-learning/)
@@ -24,9 +24,9 @@ permalink: /materials/
 ## Resources
 
 ### Environment
-* [Anaconda](https://www.anaconda.com/products/individual)
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 * [Kaggle notebook](https://www.kaggle.com/docs/notebooks)
+* [Anaconda](https://www.anaconda.com/products/individual)
 
 ### Dataset search
 * [政府資料開放平台](https://data.gov.tw/)
@@ -65,8 +65,8 @@ permalink: /materials/
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 
-
 ### Plotting
+* [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/index.html)
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 
