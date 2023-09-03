@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-09-04
+date: 2023-09-11
 title: Introduction
 tldr: 
 thumbnail: 
