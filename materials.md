@@ -41,6 +41,7 @@ permalink: /materials/
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)
+* [Computer Programming in NSYSU MATH](https://phonchi.github.io/Computer_Programming/)
 * [Python for everybody](https://www.py4e.com/)
 * [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
 
