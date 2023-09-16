@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-09-17
+date: 2023-09-18
 title: Statistical Learning
 tldr: 
 thumbnail: 
