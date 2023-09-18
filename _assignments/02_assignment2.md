@@ -3,6 +3,7 @@ type: assignment
 date: 2023-09-18T15:18:00
 title: 'Assignment #2'
 attachment: /static_files/assignments/Assignment 2.ipynb
+
 due_event: 
     type: due
     date: 2023-09-25T09:00:00
