@@ -34,16 +34,17 @@ permalink: /materials/
 * [Google dataset search](https://datasetsearch.research.google.com/)
 
 ### Learning Statistics
+* [Seeing theory](https://seeing-theory.brown.edu/#firstPage)
 * [OpenIntro Statistics](https://www.openintro.org/book/os/)
-* [Statistics Online](https://online.stat.psu.edu/statprogram/)
 * [StatQuest](https://www.youtube.com/c/joshstarmer/playlists)
+* [Statistics Online](https://online.stat.psu.edu/statprogram/)
+* [統計學 (鄭少為老師)](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2820/index.php)
 
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)
 * [Computer Programming in NSYSU MATH](https://phonchi.github.io/Computer_Programming/)
 * [Python for everybody](https://www.py4e.com/)
-* [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
 
 
 ### Learning Python libraries
