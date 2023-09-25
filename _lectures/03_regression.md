@@ -16,7 +16,7 @@ links:
 - ESL Chapter 3.1~3.3
 - PSDS Chapter 4
 - Ch4 in [seeing theory](https://seeing-theory.brown.edu/#secondPage/chapter4)/Ch5 in [OpenIntro Statistics](https://www.openintro.org/book/os/)/p-value and hypothesis testing in [statquest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)/04-05 in [統計學](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2820/index.php)
-- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-852jeJlIRMOhVtHOT7HIxg1&si=uVA9esPQHwN-BGAt)
+- [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-852jeJlIRMOhVtHOT7HIxg1&si=uVA9esPQHwN-BGAt)
 
 
 
