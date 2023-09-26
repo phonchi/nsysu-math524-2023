@@ -12,3 +12,5 @@ due_event:
     description: 'Assignment #3 due'
 description: '這次的作業總共有 3 大題 , 前兩題可參考上課相關資料，最後一題可參考Lab和課本習題'
 ---
+
+- [[Dataset for Q3]](https://drive.google.com/file/d/16gN0qOolvY3lpzvpW2FQwBGFe2mPYzW2/view?usp=sharing)
