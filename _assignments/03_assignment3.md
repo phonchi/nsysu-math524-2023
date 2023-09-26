@@ -4,7 +4,7 @@ date: 2023-09-26T09:10:00
 title: 'Assignment #3'
 <!-- pdf: /static_files/assignments/asg.pdf -->
 <!-- ipynb: /static_files/assignments/Chapter 1_Exercise.ipynb -->
-attachment: /static_files/assignments/Assignment1.ipynb
+attachment: /static_files/assignments/Assignment 3.ipynb
 <!-- solutions: /static_files/assignments/asg_solutions.pdf -->
 due_event: 
     type: due
