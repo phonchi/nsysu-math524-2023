@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-10-16
+date: 2023-10-16
 title: Resampling Methods
 tldr: 
 thumbnail: 
