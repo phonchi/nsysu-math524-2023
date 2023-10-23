@@ -20,6 +20,7 @@ links:
 - [[Midterm 2020 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2020.zip)
 - [[Midterm 2019 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2019.zip)
 - [[Midterm 2018 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2018.zip)
+- [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-87pQ1yb6GDZEDdTNVD8scER&si=xIDUReGgiQNYQjz2)
 
 
 
