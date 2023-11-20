@@ -15,3 +15,4 @@ links:
 - ISLR Chapter 8
 - ESL Chapter 9
 - PSDS Chapter 6
+- [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-84t4H_9vxDOTKP8tQrwFj-2&si=XuRpALoZ0Q3IsI1k)
