@@ -15,6 +15,7 @@ permalink: /materials/
 * [Reference solution for the exercise (R)](http://blog.princehonest.com/stat-learning/)
 * [Reference solution for the exercise (Python)](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
 * [Reference solution for the exercise (Python)](https://botlnec.github.io/islp/)
+* [Reference solution for the ESL exercise](https://yuhangzhou88.github.io/ESL_Solution/)
 
 ## MOOC
 
