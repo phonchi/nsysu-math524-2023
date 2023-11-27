@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-11-27T15:00:00
-title: 'Assignment #3'
+title: 'Assignment #8'
 <!-- pdf: /static_files/assignments/asg.pdf -->
 <!-- ipynb: /static_files/assignments/Chapter 1_Exercise.ipynb -->
 attachment: /static_files/assignments/Assignment 8.ipynb
