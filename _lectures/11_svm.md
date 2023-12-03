@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-12-04
-title: Support_Vector_Machines
+title: Support_Vector_Machines/Teaching Evaluation Survey and evaluation questionnaire for learning outcomes
 tldr: 
 thumbnail: 
 hide_from_announcments: true
