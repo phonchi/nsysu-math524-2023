@@ -15,3 +15,4 @@ links:
 - ISLR Chapter 9
 - ESL Chapter 6,12
 - [[Machine Learning Techniques]](https://www.csie.ntu.edu.tw/~htlin/mooc/)
+- [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-86QuyyrdgBkZ7qY4J-xJVNn&si=gTh0oZOCCLx-xYgR)
