@@ -14,3 +14,4 @@ links:
 - [Lab](https://github.com/phonchi/ISLP_labs/blob/main/Ch12-unsup-lab.ipynb)
 - ISLR Chapter 12
 - ESL Chapter 13,14
+- [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-85BiSie5BdC-ElKcRw37fs1&si=dqUdq86sVrpDTSbK)
