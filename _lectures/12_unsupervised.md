@@ -15,3 +15,4 @@ links:
 - ISLR Chapter 12
 - ESL Chapter 13,14
 - [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-85BiSie5BdC-ElKcRw37fs1&si=dqUdq86sVrpDTSbK)
+- [Recorded video 2](https://youtube.com/playlist?list=PLHNZtBNWQ-87wNMJFe_UQj_DzsiHVZWkx&si=1CMAnwrC6WzMaa9h)
