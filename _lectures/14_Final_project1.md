@@ -10,5 +10,5 @@ links:
 
 ---
 **Notice:**
-- [Final Project](/nsysu-math524/static_files/presentations/Final_Project.pdf)
-- [期末報告分組](/nsysu-math524/static_files/presentations/期末報告順序.png)
+- [Final Project](/nsysu-math524-2023/static_files/presentations/Final_Project.pdf)
+- [期末報告分組](/sysu-math524-2023/static_files/presentations/期末報告順序.png)
