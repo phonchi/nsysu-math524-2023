@@ -15,11 +15,11 @@ links:
 - ISLR Chapter 6
 - ESL Chapter 7.1-7.7, Chapter3.3-3.4
 - PSDS Chapter 4
-- [[Midterm 2022]](/nsysu-math524/static_files/presentations/Mid_term_2022.zip)
-- [[Midterm 2021]](/nsysu-math524/static_files/presentations/Mid_term_2021.zip)
-- [[Midterm 2020 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2020.zip)
-- [[Midterm 2019 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2019.zip)
-- [[Midterm 2018 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2018.zip)
+- [[Midterm 2022]](/nsysu-math524-2023/static_files/presentations/Mid_term_2022.zip)
+- [[Midterm 2021]](/nsysu-math524-2023/static_files/presentations/Mid_term_2021.zip)
+- [[Midterm 2020 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524-2023/static_files/presentations/Mid_term_2020.zip)
+- [[Midterm 2019 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524-2023/static_files/presentations/Mid_term_2019.zip)
+- [[Midterm 2018 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524-2023/static_files/presentations/Mid_term_2018.zip)
 - [Recorded video](https://youtube.com/playlist?list=PLHNZtBNWQ-87pQ1yb6GDZEDdTNVD8scER&si=xIDUReGgiQNYQjz2)
 
 
